@@ -1,4 +1,5 @@
 # Jean Pockets Project
+## File Structure
 <pre>
 jean-pockets-project
 │
